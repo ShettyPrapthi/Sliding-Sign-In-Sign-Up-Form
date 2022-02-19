@@ -1,0 +1,23 @@
+{
+  "name": "sliding-sign-in-sign-up-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShettyPrapthi/Sliding-Sign-In-Sign-Up-Form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShettyPrapthi/Sliding-Sign-In-Sign-Up-Form/issues"
+  },
+  "homepage": "https://github.com/ShettyPrapthi/Sliding-Sign-In-Sign-Up-Form#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
